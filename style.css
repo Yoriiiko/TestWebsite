@@ -1,0 +1,40 @@
+/* 
+IDs
+- HeadingContainer
+- Heading
+- ServicesContainer
+- Services
+- ProjectsContainer
+- Projects
+*/
+
+body {
+    background-color:darkkhaki;
+}
+
+#HeadingContainer {
+    background-color:darkorchid;
+}
+
+#Heading {
+    text-align: center;
+    color:aliceblue;
+}
+
+#ServicesContainer {
+    background-color: fuchsia;
+}
+
+#Services {
+    text-align: center;
+    color:whitesmoke;
+}
+
+#ProjectsContainer {
+    background-color: darkviolet;
+}
+
+#Projects {
+    text-align: center;
+    color: antiquewhite;
+}
